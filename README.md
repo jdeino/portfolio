@@ -1,4 +1,4 @@
-# portfolio
+# PORTFOLIO
 
 ## The Navbar
 I started to create a new portfolio for myself by adding a navbar to the top section, and when clicking on the links it will redirect you to the section on the page. 
