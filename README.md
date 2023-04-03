@@ -19,5 +19,5 @@ I added my contact information, minus real phone number for privacy reasons as t
 I didn't have a ton of semantic html elements, but I had some. I did leave notes on both my html and css file for easier read when going through and making adjustments. I checked using the developer tools on Google Chrome to make sure it ws UI responsive on multiple devices.
 
 ## Showcase of Work
-![Uploading Screenshot 2023-04-02 at 6.13.40 PM.png…]<img width="1440" alt="Screenshot 2023-04-02 at 6 13 52 PM" src="https://user-images.githubusercontent.com/109103013/229390742-4e437523-50cd-478a-a026-5206b41ca201.png">
-()
+<img width="1440" alt="Screenshot 2023-04-02 at 6 13 40 PM" src="https://user-images.githubusercontent.com/109103013/229391101-c5d2fdbe-f156-42f6-8cef-dc891cc6069f.png">
+<img width="1440" alt="Screenshot 2023-04-02 at 6 13 52 PM" src="https://user-images.githubusercontent.com/109103013/229391118-6b80e486-ba4f-45a5-b61a-7dc0abb48029.png">
